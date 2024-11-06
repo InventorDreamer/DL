@@ -3,3 +3,8 @@
 # Курс состоит из двух семестров.
 
 **Этот репозиторий будет посвящён основам нейросетей, свёрточным нейронным сетям и компьютерному зрению.**
+
+### Семестр 1
+
+- [Основы машинного обучения](https://github.com/InventorDreamer/DLS-MIPT/tree/main/machine_learning_basics)
+- [Решение ML-задачи на Kaggle](https://github.com/InventorDreamer/DLS-MIPT/tree/main/ML_exercise_Kaggle)
